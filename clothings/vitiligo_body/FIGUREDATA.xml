@@ -1,0 +1,35 @@
+            <set id="174185" gender="U" club="0" colorable="1" selectable="1" preselectable="0"
+                sellable="0">
+                <part id="174182" type="bd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="lh" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="rh" colorable="1" index="0" colorindex="1" />
+                <part id="174185" type="hd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="sd" colorable="0" index="0" colorindex="0" />
+            </set>
+
+            <set id="174184" gender="U" club="0" colorable="1" selectable="1" preselectable="0"
+                sellable="0">
+                <part id="174182" type="bd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="lh" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="rh" colorable="1" index="0" colorindex="1" />
+                <part id="174184" type="hd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="sd" colorable="0" index="0" colorindex="0" />
+            </set>
+
+            <set id="174183" gender="U" club="0" colorable="1" selectable="1" preselectable="0"
+                sellable="0">
+                <part id="174182" type="bd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="lh" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="rh" colorable="1" index="0" colorindex="1" />
+                <part id="174183" type="hd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="sd" colorable="0" index="0" colorindex="0" />
+            </set>
+
+            <set id="174182" gender="U" club="0" colorable="1" selectable="1" preselectable="0"
+                sellable="0">
+                <part id="174182" type="bd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="lh" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="rh" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="hd" colorable="1" index="0" colorindex="1" />
+                <part id="174182" type="sd" colorable="0" index="0" colorindex="0" />
+            </set> 
