@@ -1,1 +1,1 @@
-A Repository containing custom furniture 
+A Repository containing custom furniture and clothings.
